@@ -1,1 +1,1 @@
-# COUNTER
+# COUNTER javascript project
