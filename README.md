@@ -1,1 +1,1 @@
-# COUNTER javascript project
+# counter javascript project
